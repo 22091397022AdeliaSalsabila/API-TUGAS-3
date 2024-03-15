@@ -18,12 +18,12 @@
                     "content": {
                         "application/json": {
                             "examples": {
-                                "khannedy": {
-                                    "description": "Register user khannedy",
+                                "Adelia": {
+                                    "description": "Register user Adelia",
                                     "value": {
-                                        "username": "khannedy",
+                                        "username": "Adelia",
                                         "password": "rahasia",
-                                        "name": "Eko Kurniawan Khannedy"
+                                        "name": "Adelia Salsabila"
                                     }
                                 }
                             },
@@ -84,8 +84,8 @@
                                         "value": {
                                             "data": {
                                                 "id": 1,
-                                                "name": "Eko Kurniawan Khannedy",
-                                                "username": "khannedy"
+                                                "name": "Adelia Salsabila",
+                                                "username": "Adelia"
                                             }
                                         }
                                     }
